@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+    justify-content: center;
+    align-items: center;
+}
+.texto{
+    background-color:blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 190%;
+    font-weight: 200%;
+    color:rgb(176, 142, 97)
+    
+}
+.texto2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+
+.Contenedor{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+img{
+    height: 300px;
+}
+
+.card{
+    margin-left: 10%;
+}
